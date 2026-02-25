@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://voxel-terrain-explorer.vercel.app"),
+  metadataBase: new URL("https://mapping-kohl-three.vercel.app"),
   title: {
     default: "Voxel Terrain Explorer",
     template: "%s | Voxel Terrain Explorer"
