@@ -1,0 +1,17 @@
+{
+  "name": "Voxel Terrain Explorer",
+  "short_name": "VoxelTerrain",
+  "description": "Procedural 3D voxel terrain explorer with seeded generation and cross-device controls.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071722",
+  "theme_color": "#133447",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

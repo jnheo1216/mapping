@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Voxel Terrain Explorer Open Graph Image</title>
+  <desc id="desc">Procedural voxel terrain branding artwork for social sharing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b2130"/>
+      <stop offset="0.55" stop-color="#12384c"/>
+      <stop offset="1" stop-color="#1d5566"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(890 110) rotate(143) scale(430 290)">
+      <stop offset="0" stop-color="#8ce07b" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8ce07b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <g transform="translate(120 130) scale(1.58)">
+    <rect x="12" y="12" width="232" height="232" rx="52" fill="#0f2f43"/>
+    <polygon points="58,164 128,132 198,164 128,196" fill="#67b158"/>
+    <polygon points="58,164 128,196 128,230 58,198" fill="#3f7a3a"/>
+    <polygon points="198,164 128,196 128,230 198,198" fill="#4b8f44"/>
+    <polygon points="128,58 184,90 128,122 72,90" fill="#9fe8ff"/>
+    <polygon points="72,90 128,122 128,178 72,146" fill="#2f6db0"/>
+    <polygon points="184,90 128,122 128,178 184,146" fill="#5e9f52"/>
+    <path d="M128 38 L136 54 L152 62 L136 70 L128 86 L120 70 L104 62 L120 54 Z" fill="#8ce07b"/>
+    <rect x="12" y="12" width="232" height="232" rx="52" fill="none" stroke="#9bd6f4" stroke-opacity="0.32" stroke-width="2"/>
+  </g>
+
+  <text x="560" y="270" fill="#e6f9ff" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="86" font-weight="700" letter-spacing="0.8">Voxel Terrain</text>
+  <text x="560" y="352" fill="#c8f0ff" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="74" font-weight="700" letter-spacing="0.5">Explorer</text>
+  <text x="563" y="406" fill="#9fccb5" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="34" font-weight="500">Procedural 3D worlds generated from seeded noise</text>
+
+  <text x="566" y="472" fill="#9dbecf" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="26">Arrow Keys Move · Space Jump · Z Ascend · Mobile Touch Controls</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Voxel Terrain Explorer Logo</title>
+  <desc id="desc">Logo with an isometric voxel icon and project wordmark.</desc>
+  <defs>
+    <linearGradient id="word" x1="244" y1="58" x2="900" y2="188" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f5ff"/>
+      <stop offset="1" stop-color="#8ce07b"/>
+    </linearGradient>
+    <linearGradient id="sub" x1="252" y1="192" x2="860" y2="192" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a9cbdb"/>
+      <stop offset="1" stop-color="#7cb093"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(22 22) scale(0.84)">
+    <rect x="12" y="12" width="232" height="232" rx="52" fill="#0f2f43"/>
+    <polygon points="58,164 128,132 198,164 128,196" fill="#67b158"/>
+    <polygon points="58,164 128,196 128,230 58,198" fill="#3f7a3a"/>
+    <polygon points="198,164 128,196 128,230 198,198" fill="#4b8f44"/>
+    <polygon points="128,58 184,90 128,122 72,90" fill="#9fe8ff"/>
+    <polygon points="72,90 128,122 128,178 72,146" fill="#2f6db0"/>
+    <polygon points="184,90 128,122 128,178 184,146" fill="#5e9f52"/>
+    <path d="M128 38 L136 54 L152 62 L136 70 L128 86 L120 70 L104 62 L120 54 Z" fill="#8ce07b"/>
+    <rect x="12" y="12" width="232" height="232" rx="52" fill="none" stroke="#9bd6f4" stroke-opacity="0.28" stroke-width="2"/>
+  </g>
+
+  <text x="246" y="106" fill="url(#word)" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="66" font-weight="700" letter-spacing="0.6">Voxel Terrain</text>
+  <text x="246" y="165" fill="url(#word)" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="58" font-weight="700" letter-spacing="0.3">Explorer</text>
+  <text x="250" y="204" fill="url(#sub)" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="24" font-weight="500" letter-spacing="0.4">Procedural 3D Voxel Worlds</text>
+</svg>

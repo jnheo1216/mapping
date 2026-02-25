@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Voxel Terrain Explorer Favicon</title>
+  <desc id="desc">Isometric voxel hill icon in a rounded square.</desc>
+  <defs>
+    <linearGradient id="bg" x1="32" y1="20" x2="224" y2="236" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1b4a66"/>
+      <stop offset="1" stop-color="#0a2332"/>
+    </linearGradient>
+    <linearGradient id="top" x1="128" y1="64" x2="128" y2="198" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#baf3ff"/>
+      <stop offset="1" stop-color="#79cfff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="12" y="12" width="232" height="232" rx="52" fill="url(#bg)"/>
+
+  <polygon points="58,164 128,132 198,164 128,196" fill="#67b158"/>
+  <polygon points="58,164 128,196 128,230 58,198" fill="#3f7a3a"/>
+  <polygon points="198,164 128,196 128,230 198,198" fill="#4b8f44"/>
+
+  <polygon points="128,58 184,90 128,122 72,90" fill="url(#top)"/>
+  <polygon points="72,90 128,122 128,178 72,146" fill="#2f6db0"/>
+  <polygon points="184,90 128,122 128,178 184,146" fill="#5e9f52"/>
+
+  <polygon points="96,120 128,138 96,156 64,138" fill="#d7e6f3" opacity="0.75"/>
+  <polygon points="160,120 192,138 160,156 128,138" fill="#8a6848" opacity="0.72"/>
+
+  <path d="M128 38 L136 54 L152 62 L136 70 L128 86 L120 70 L104 62 L120 54 Z" fill="#8ce07b"/>
+
+  <rect x="12" y="12" width="232" height="232" rx="52" fill="none" stroke="#9bd6f4" stroke-opacity="0.28" stroke-width="2"/>
+</svg>
